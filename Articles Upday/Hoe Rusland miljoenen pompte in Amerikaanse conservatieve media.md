@@ -7,7 +7,7 @@ onderzoek van het Amerikaanse Openbaar Ministerie heeft een netwerk van geldstro
 blootgelegd.**
 
 Tenet Media werd in 2023 opgericht door tv-persoonlijkheid en influencer Lauren Chen, samen met opiniemaker Liam Donovan. Het zegt
-op haar website "<i>creators</i> te willen ondersteunen die vragen stellen over instituten die zichzelf niet meer in vraag stellen."
+op haar website "_creators_ te willen ondersteunen die vragen stellen over instituten die zichzelf niet meer in vraag stellen."
 
 Volgens het Amerikaanse Openbaar Ministerie kreeg het bedrijf in meerdere schijven 9.7 miljoen dollar aan financiering via
 schaduwbedrijven in Turkije, de Verenigde Arabische Emiraten en Mauritius. De transacties kunnen worden teruggeleid naar Kostiantyn
@@ -50,4 +50,4 @@ Tenet heeft na het verschijnen van de aanklacht geen videos meer gepost. Enkele 
 verwijderd.
 
 Kalashnikov en Afanasyeva worden aangeklaagd voor samenzwering om geld wit te wassen en samenzwering om de
-<i>Foreign Agents Registration Act (FARA)</i> te schenden.
+_Foreign Agents Registration Act (FARA)_ te schenden.
